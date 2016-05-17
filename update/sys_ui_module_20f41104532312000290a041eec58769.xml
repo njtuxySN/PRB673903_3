@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="PRB673903_3">28f41104532312000290a041eec58768</application>
+        <filter/>
+        <name>Testing a new commits</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_prb673903_3.user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>Dummy</sys_created_by>
+        <sys_created_on>2016-05-17 19:31:16</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>20f41104532312000290a041eec58769</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Testing a new commits</sys_name>
+        <sys_package display_value="PRB673903_3" source="x_prb673903_3">1bb199c0532312000290a041eec5871d</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="PRB673903_3">1bb199c0532312000290a041eec5871d</sys_scope>
+        <sys_update_name>sys_ui_module_20f41104532312000290a041eec58769</sys_update_name>
+        <sys_updated_by>Dummy</sys_updated_by>
+        <sys_updated_on>2016-05-17 19:31:16</sys_updated_on>
+        <table>x_prb673903_3_testing_a_new_commit</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
